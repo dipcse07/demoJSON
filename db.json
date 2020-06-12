@@ -1,0 +1,40 @@
+{
+	"CollegeName1": [{
+			"teacherName": "Md Sazid hasan dip",
+			"teacherID": "2345",
+			"avatarImage": "url",
+			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
+			"status": "Active",
+			"joinDate": "date",
+			"resignDate": "present"
+		},
+		{
+			"TeacherName": "Talha Azadi",
+			"teacherID": "2345",
+			"avatarImage": "url",
+			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
+			"status": "Active",
+			"joinDate": "date",
+			"resignDate": "present"
+		}
+	],
+	"CollegeName2": [{
+			"teacherName": "Md Sazid hasan dip",
+			"teacherID": "2345",
+			"avatarImage": "url",
+			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
+			"status": "Active",
+			"joinDate": "date",
+			"resignDate": "present"
+		},
+		{
+			"TeacherName": "Talha Azadi",
+			"teacherID": "2345",
+			"avatarImage": "url",
+			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
+			"status": "Active",
+			"joinDate": "date",
+			"resignDate": "present"
+		}
+	]
+}
