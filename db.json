@@ -4,6 +4,8 @@
 			"title": "Professor of CSE",
 			"teacherID": "2345",
 			"avatarImage": "url",
+			"phone": "01689014428",
+			"email": "dipcse07@gmail.com"
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
 			"status": "Active",
 			"joinDate": "date",
@@ -14,6 +16,8 @@
 			"title": "Assistant Professor",
 			"teacherID": "2345",
 			"avatarImage": "url",
+			"phone": "016xxxxxxxx",
+			"email": "talhaazadi@gmail.com"
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
 			"status": "Active",
 			"joinDate": "date",
@@ -23,9 +27,10 @@
 	"CollegeName2": [{
 			"teacherName": "Md Sazid hasan dip",
 			"title": "Professor of CSE",
-			
 			"teacherID": "2345",
 			"avatarImage": "url",
+			"phone": "01689014428",
+			"email": "dipcse07@gmail.com"
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
 			"status": "Active",
 			"joinDate": "date",
@@ -36,6 +41,8 @@
 			"title": "Assistant Professor",
 			"teacherID": "2345",
 			"avatarImage": "url",
+			"phone": "016xxxxxxxx",
+			"email": "talhaazadi@gmail.com"
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
 			"status": "Active",
 			"joinDate": "date",
