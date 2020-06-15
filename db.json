@@ -1,6 +1,7 @@
 {
 	"CollegeName1": [{
 			"teacherName": "Md Sazid hasan dip",
+			"title": "Professor of CSE",
 			"teacherID": "2345",
 			"avatarImage": "url",
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
@@ -9,7 +10,8 @@
 			"resignDate": "present"
 		},
 		{
-			"TeacherName": "Talha Azadi",
+			"teacherName": "Talha Azadi",
+			"title": "Assistant Professor",
 			"teacherID": "2345",
 			"avatarImage": "url",
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
@@ -28,7 +30,7 @@
 			"resignDate": "present"
 		},
 		{
-			"TeacherName": "Talha Azadi",
+			"teacherName": "Talha Azadi",
 			"teacherID": "2345",
 			"avatarImage": "url",
 			"address": "9/2, shenbari Road, Shanki Para Bazar Mymensingh",
